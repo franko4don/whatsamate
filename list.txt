@@ -1,0 +1,5 @@
+1.) List all identifiers
+2.) List all possible whatsapp functions
+3.) Add Email service
+4.) Add environment variables
+5.) Write browser class to handle page loads, screenshots, sessions, cookies

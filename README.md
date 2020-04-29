@@ -1,0 +1,2 @@
+# whatsamate
+Getting started

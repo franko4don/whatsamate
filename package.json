@@ -1,0 +1,26 @@
+{
+  "name": "whatsamate",
+  "version": "1.0.0",
+  "description": "Whatsapp interacto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franko4don/whatsamate.git"
+  },
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "scan",
+    "send",
+    "reply"
+  ],
+  "author": "Nwanze Franklin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franko4don/whatsamate/issues"
+  },
+  "homepage": "https://github.com/franko4don/whatsamate#readme"
+}
